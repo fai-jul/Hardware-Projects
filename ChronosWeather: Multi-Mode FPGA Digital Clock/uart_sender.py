@@ -17,9 +17,9 @@ TIMEOUT = 1
 # Sign up at: https://openweathermap.org/api
 # Free tier: 1000 calls/day (we only call once every 10 minutes)
 # ============================================================
-WEATHER_API_KEY = '20f9148f45a982cc8b58e265b2728fda'  # ← Put your API key here
-CITY_NAME = 'Khulna'  # ← Change to your city
-COUNTRY_CODE = 'BD'  # ← Change to your country code (US, UK, BD, etc.)
+WEATHER_API_KEY = ''  # ← Put your API key here
+CITY_NAME = ''  # ← Change to your city
+COUNTRY_CODE = ''  # ← Change to your country code (US, UK, BD, etc.)
 
 # Cache weather data to avoid too many API calls
 weather_cache = {'temp': 25.0, 'last_update': 0}
