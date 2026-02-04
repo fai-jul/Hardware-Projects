@@ -1,5 +1,5 @@
 # ChronosWeather: Multi-Mode FPGA Digital Clock
-**Course:** Digital Logic Design Laboratory (CSE 1202)
+**Course:** Digital Logic Design Laboratory (CSE 1204)
 **Term:** 1st Year, 2nd Semester
 **Project Date:** November 10, 2025
 
