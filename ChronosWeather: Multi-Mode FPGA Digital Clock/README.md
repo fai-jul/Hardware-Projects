@@ -4,7 +4,7 @@
 **Project Date:** November 10, 2025
 
 ### Team Members
-* **MD Faijul Islam** (Roll: [2307024)
+* **MD Faijul Islam** (Roll: 2307024)
 * **Anirban Majumder Joy** (Roll: 2307023)
 
 ---
